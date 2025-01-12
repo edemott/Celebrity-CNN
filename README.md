@@ -1,6 +1,6 @@
-Face Classification Using EfficientNet Model
+## Face Classification Using EfficientNet Model
 
-Overview
+# Overview
 
 This project implements a face classification system using the EfficientNet model. The model is trained on a dataset of celebrity faces and employs transfer learning, data augmentation, and cross-validation to achieve high accuracy in predicting class labels.
 
